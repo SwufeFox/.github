@@ -1,60 +1,62 @@
+<div align="center">
+
 # 🦊 Welcome to SwufeFox
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F78C6C&center=true&vcenter=true&width=500&lines=Clever+Code.+Quantitative+Mind.;Building+cool+stuff+%40+SWUFE.;Where+finance+meets+code." alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vcenter=true&width=500&lines=Clever+Code.+Quantitative+Mind.;Building+cool+stuff+%40+SWUFE.;Where+finance+meets+code." alt="Typing SVG" />
 
 <p align="center">
-  <a href="#-join-the-den"><img src="https://img.shields.io/badge/Org-SwufeFox-orange?style=for-the-badge&logo=github" alt="Org Badge"></a>
-  <a href="#-join-the-den"><img src="https://img.shields.io/badge/Members-SWUFE%20Builders-blue?style=for-the-badge&logo=academic-group" alt="SWUFE Badge"></a>
+  <a href="https://swufefox.com"><img src="https://img.shields.io/badge/Site-swufefox.com-F78C6C?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website Badge"></a>
+  <a href="https://github.com/SwufeFox"><img src="https://img.shields.io/badge/Org-SwufeFox-181717?style=for-the-badge&logo=github&logoColor=white" alt="Org Badge"></a>
+  <a href="#-join-the-den"><img src="https://img.shields.io/badge/Members-SWUFE%20Builders-2563EB?style=for-the-badge&logo=minutemailer&logoColor=white" alt="SWUFE Badge"></a>
 </p>
+
+</div>
 
 ---
 
 ## Hi there 👋
 
-Welcome to **SwufeFox** — the technical habitat for builders, hackers, and overnight coders! We are an open-source student developer collective proving that SWUFE is more than just spreadsheets and financial models. 
+Welcome to **SwufeFox** — a cozy habitat for student builders, tinkerers, and late-night coders! We are an open-source student collective proving that SWUFE is about more than just spreadsheets and financial reports.
 
-Whether you're building Kotlin/Android apps, tuning serverless scripts, crunching financial data, or hacking on side projects, you've found the right den.
+Whether you're writing Kotlin/Android apps, deploying serverless scripts, crunching financial data, or just hacking on weekend side projects, you've found the right den.
 
 ---
 
 ### 📩 Join the Den
-> **Join us with the verified swufe email** 🦊  
-> If you have an active `@swufe.edu.cn` (or `@mail.swufe.edu.cn`) address, you are instantly eligible to join our GitHub Organization! Drop your handle or open an issue to get your invite.
+
+> **Join us with your verified SWUFE email** 🦊  
+> If you have an active `*.swufe.edu.cn` address (such as `@smail.swufe.edu.cn` or `@swufe.edu.cn`), you can join our GitHub Organization right away! Head over to **[swufefox.com](https://swufefox.com)** or open an issue with your handle to grab an invite.
 
 ---
 
 ### 🚀 What We're All About
-* 🛠️ **Open Source Utilities**: Modern developer tools, automation bots, and internal scripts.
-* 📈 **Quant & Data Workbench**: Blending mathematical analysis, econometrics, and clean code.
-* 📱 **App & Web Engineering**: Crafting sleek UI/UX with modern frameworks.
-* 🌐 **Privacy & Mesh Networks**: Exploring decentralized infrastructure, encryption, and open protocols.
+
+* 🛠️ **Tools & Scripts**: Practical utilities, automation bots, and small tools that make campus and dev life easier.
+* 📈 **Data & Quant Notes**: Applying code to econometrics, financial data analysis, and quantitative modeling.
+* 📱 **Apps & Web Projects**: Building web applications and mobile clients with modern frameworks.
+* 🧪 **Side Projects & Tinkering**: Self-hosted services, network experiments, and whatever else we find fun to build together.
 
 ---
 
 ### 🌈 Contribution Guidelines
-Want to get your hands dirty? We love PRs!
+
+Want to get your hands dirty? PRs are always welcome:
+
 1. **Fork & Clone:** Grab any public repo under `SwufeFox`.
-2. **Branch:** Create a fresh feature branch (`git checkout -b feature/cool-thing`).
-3. **Commit & Push:** Keep your code clean (and your git history cleaner).
-4. **Pull Request:** Open a PR and tag the team for a review. No pressure, we don't bite!
+2. **Branch:** Create a fresh feature branch (`git checkout -b feat/cool-thing`).
+3. **Commit & Push:** Keep your code readable and your commit history clean.
+4. **Pull Request:** Open a PR and ping the team for a review. No pressure, we don't bite!
 
 ---
 
 ### 🍿 Fun Facts
-* ☕ **Fuel Component:** 80% cold brew/espresso, 15% matcha, and 5% pure optimism during exam season.
-* 🦊 **Why Fox?** Quick, clever, adapts fast to any environment, and stays up way too late.
-* 📊 **Our Ultimate Motto:** `git commit -m "fixed bugs and optimized economy"`
 
----
-
-### 👩‍💻 Useful Resources
-* 📖 [Markdown Formatting Syntax Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* ⚙️ [GitHub Actions Docs](https://docs.github.com/en/actions)
+* 🍵 **Fuel Component:** 75% cold brew/espresso, 20% jasmine tea & matcha, and 5% pure optimism during finals week.
+* 🦊 **Why a Fox?** Quick, clever, adapts fast to new tech stacks, and stays up way too late.
+* 📊 **Default Commit Message:** `git commit -m "fix: patched bugs and optimized the economy"`
 
 ---
 
 <p align="center">
-  <i>Made with ❤️ by the SwufeFox Community</i>
+  <i>Made with ❤️ by the <a href="https://swufefox.com">SwufeFox</a> Community</i>
 </p>
