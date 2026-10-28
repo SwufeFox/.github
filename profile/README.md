@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# SwufeFox
+# 🦊SwufeFox
 
 *The final variable is yours to change.*
 
